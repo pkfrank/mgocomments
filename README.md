@@ -4,7 +4,7 @@
 ![Comparison](comparison.png)
 
 ## Background
-I'm a huge fan and reader of [MGoBlog](http://MGoBlog.com), and the community at [MGoBoard](http://mgoblog.com/mgoboard).  However, I've been a little bit frustrated with the visual layout of the forum on desktop (the mobile app ([iOs](https://itunes.apple.com/us/app/mgoblog-hd/id819662017?mt=8)/[Android](https://play.google.com/store/apps/details?id=com.atami.mgodroid&hl=en)) is awesome...).  In my opinion, there's a lot of wasted vertical space, and it can feel crowded with the sidebars, author signatures, and profile pictures, making it difficult to follow the conversation.
+I'm a huge fan and reader of [MGoBlog](http://MGoBlog.com), and the community at [MGoBoard](http://mgoblog.com/mgoboard).  However, I've been a little bit frustrated with the visual layout of the forum on desktop (the mobile apps ([iOs](https://itunes.apple.com/us/app/mgoblog-hd/id819662017?mt=8)/[Android](https://play.google.com/store/apps/details?id=com.atami.mgodroid&hl=en)) are awesome...).  In my opinion, there's a lot of wasted vertical space, and it can feel crowded with the sidebars, author signatures, and profile pictures, making it difficult to follow the conversation.
 
 I put together a little script to modify the HTML/CSS of the page to produce (what I think is) a cleaner and more compact overall look.
 
