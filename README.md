@@ -31,7 +31,7 @@ Step 3) Click install
 
 Step 4) Navigate to MGoBoard
 
-Step 5) Make sure it's "enabled" via TamperMonkey
+Step 5) Make sure it's "enabled" via TamperMonkey (you might need to refresh)
 
 ## Technical Notes
 I put this together over a weekend or two using Javascript/JQuery.  I'm a complete novice, so it's probably not as efficient/clean as it could be.  Please contribute if you see missing features or have ideas to make it better.
