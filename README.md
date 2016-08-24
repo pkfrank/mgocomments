@@ -15,7 +15,7 @@ The script can be installed using [TamperMonkey](http://tampermonkey.net/), whic
 
 The installation file can be accessed at https://openuserjs.org/scripts/pkfrank/MGo_Comment_Enhancer
 
-![Installation graphic](install.png)
+<img src="install.png" width="500px">
 
 Once you've installed TamperMonkey, simply click "Install" at the above link to add the script to your browser.  You can toggle it on/off at any time.
 
