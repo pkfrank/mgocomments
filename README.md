@@ -11,7 +11,7 @@ I'm a huge fan and reader of [MGoBlog](http://MGoBlog.com), and the community at
 It only activates on this one site, and does not interact with the MGoBlog server or slow down your experience.  The code is open-source so you can play around to ensure there's no funny business going on.  ✌🏽
 
 ## Installation
-The script can be installed using [TamperMonkey](http://tampermonkey.net/), which is a well-supported and open-source userscript manager that supports most major browsers.
+The script can be installed using <a href="http://tampermonkey.net/" target="_blank">TamperMonkey</a>, which is a well-supported and open-source userscript manager that supports most major browsers.
 
 Once you've installed TamperMonkey, simply head to the following link and press "Install" -- https://openuserjs.org/scripts/pkfrank/MGo_Comment_Enhancer
 
