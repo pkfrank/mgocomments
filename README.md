@@ -19,7 +19,7 @@ The installation file can be accessed at https://openuserjs.org/scripts/pkfrank/
 
 Once you've installed TamperMonkey, simply click "Install" at the above link to add the script to your browser.  You can toggle it on/off at any time.
 
-<img src="enable.png" alt="Enable it" style="width: 200px;"/>
+<img src="enable.png" width="350px">
 
 **Recap**:
 
