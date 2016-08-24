@@ -19,6 +19,18 @@ The installation file can be accessed at https://openuserjs.org/scripts/pkfrank/
 
 Once you've installed TamperMonkey, simply click "Install" at the above link to add the script to your browser.  You can toggle it on/off at any time.
 
+**Recap**:
+
+Step 1) Install [TamperMonkey](http://tampermonkey.net/)
+
+Step 2) Go to [this link](https://openuserjs.org/scripts/pkfrank/MGo_Comment_Enhancer)
+
+Step 3) Click install
+
+Step 4) Navigate to MGoBoard
+
+Step 5) Make sure it's "enabled" via TamperMonkey
+
 ## Technical Notes
 I put this together over a weekend or two using Javascript/JQuery.  I'm a complete novice, so it's probably not as efficient/clean as it could be.  Please contribute if you see missing features or have ideas to make it better.
 
@@ -27,5 +39,10 @@ I'm including an Example.html and the corresponding files to make it easier to t
 I'm also curious to know how much "page weight" the extension adds.  My estimation is that it doesn't really impact loading time, but I'd love to eventually have some empirical data to back that up.
 
 Anyway, this project is open-source under the MIT License, and I welcome you to do whatever you want with it.
+
+##Contact
+Problems? Comments? MGoSnark?
+
+Ping me here, on Twitter [@PeterKimFrank](http://twitter.com/peterkimfrank), or via email at peter.kim.frank -at- gmail
 
 **GO BLUE.**
