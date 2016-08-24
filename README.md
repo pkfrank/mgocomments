@@ -4,11 +4,11 @@
 ![Comparison](comparison.png)
 
 ## Background
-I'm a huge fan and reader of [MGoBlog](http://MGoBlog.com), and the community at [MGoBoard](http://mgoblog.com/mgoboard).  However, I've been a little bit frustrated with the visual layout of the forum on desktop (the mobile apps ([iOs](https://itunes.apple.com/us/app/mgoblog-hd/id819662017?mt=8)/[Android](https://play.google.com/store/apps/details?id=com.atami.mgodroid&hl=en)) are awesome...).  In my opinion, there's a lot of wasted vertical space, and it can feel crowded with the sidebars, author signatures, and profile pictures, making it difficult to follow the conversation.
+I'm a huge fan and reader of [MGoBlog](http://MGoBlog.com), and the community at [MGoBoard](http://mgoblog.com/mgoboard).  I wanted to put together a little script to modify the CSS of the page to produce (what I think is) a cleaner and more compact overall look.
 
-I put together a little script to modify the HTML/CSS of the page to produce (what I think is) a cleaner and more compact overall look.
+**So, how does it work?** It's basically a little piece of code that activates only when you're at MGoBlog.com/MGoBoard.  It tells your web browser to change the styles of certain elements: for example-- remove the sidebar areas, make the posts wider, hide the author profile picture and signature, make the indents more prominent, etc.
 
-The script activates when it detects the MGoBlog.com/MGoBoard URL, and only modifies information already sent to the end-user's browser; it does not interact directly with the MGoBlog servers.
+It only activates on this one site, and does not interact with the MGoBlog server.
 
 ## Installation
 The script can be installed using [TamperMonkey](http://tampermonkey.net/), which is a well-supported and open-source userscript manager that supports most major browsers.
