@@ -8,7 +8,7 @@ I'm a huge fan and reader of [MGoBlog](http://MGoBlog.com), and the community at
 
 **So, how does it work?** It's basically a little piece of code that activates only when you're at MGoBlog.com/MGoBoard.  It tells your web browser to change the styles of certain elements: for example-- remove the sidebar areas, make the posts wider, hide the author profile picture and signature, make the indents more prominent, etc.
 
-It only activates on this one site, and does not interact with the MGoBlog server.
+It only activates on this one site, and does not interact with the MGoBlog server or slow down your experience.  The code is open-source so you can play around to ensure there's no funny business going on.  ✌🏽
 
 ## Installation
 The script can be installed using [TamperMonkey](http://tampermonkey.net/), which is a well-supported and open-source userscript manager that supports most major browsers.
