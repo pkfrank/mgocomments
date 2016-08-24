@@ -13,7 +13,7 @@ It only activates on this one site, and does not interact with the MGoBlog serve
 ## Installation
 The script can be installed using [TamperMonkey](http://tampermonkey.net/), which is a well-supported and open-source userscript manager that supports most major browsers.
 
-Once you've installed TamperMonkey, simply click this link and press "Install" -- https://openuserjs.org/scripts/pkfrank/MGo_Comment_Enhancer
+Once you've installed TamperMonkey, simply head to the following link and press "Install" -- https://openuserjs.org/scripts/pkfrank/MGo_Comment_Enhancer
 
 <img src="install.png" width="500px">
 
