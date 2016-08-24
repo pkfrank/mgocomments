@@ -13,11 +13,11 @@ It only activates on this one site, and does not interact with the MGoBlog serve
 ## Installation
 The script can be installed using [TamperMonkey](http://tampermonkey.net/), which is a well-supported and open-source userscript manager that supports most major browsers.
 
-The installation file can be accessed at https://openuserjs.org/scripts/pkfrank/MGo_Comment_Enhancer
+Once you've installed TamperMonkey, simply click this link and press "Install" -- https://openuserjs.org/scripts/pkfrank/MGo_Comment_Enhancer
 
 <img src="install.png" width="500px">
 
-Once you've installed TamperMonkey, simply click "Install" at the above link to add the script to your browser.  You can toggle it on/off at any time.
+Head to MGoBoard, toggle it on/off, and hit refresh.
 
 <img src="enable.png" width="350px">
 
