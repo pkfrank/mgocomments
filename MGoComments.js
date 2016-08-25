@@ -8,7 +8,7 @@ $(document).ready(function(){
 	$("#sidebar-left").hide();
 	$("#sidebar-right").hide();
 	$(".author-signature").hide();
-	$(".picture").hide();
+	// $(".picture").hide();
 	$(".mgoblog-hd-signature").hide();
 	$(".forum-post-panel-sub").hide();
 	$(".forum-post-info").hide();
@@ -30,6 +30,7 @@ $(document).ready(function(){
 	$(".forum-post-panel-main").css("min-height", "50px");
 	$(".forum-post-info").css("background", "grey");
 	$(".forum-post-title").css("padding-left", "0px");
+	$(".forum-post-title").css("margin-left", "87px");	
 	$(".indented").css("margin-left", "55px");
 	$(".forum-post-title").css("border-bottom", "none");
 	$(".forum-post").css("border", "none");
@@ -40,6 +41,7 @@ $(document).ready(function(){
 	$(".new-name").css("display", "inline-block");
 	$(".new-name").css("font-size", "18px");
 	$(".new-name").css("font-weight", "bolder");
+	$(".new-name").css("margin-left", "87px");	
 	$(".new-title").css("padding", "10px 0px 5px 5px");
 	$(".new-title").css("background-color", "rgba(128, 128, 128, 0.08)");
 	$(".new-time").css("float", "right");
@@ -54,6 +56,11 @@ $(document).ready(function(){
 	$(".af-button-small span").css("background", "none");
 	$(".comment_reply").css("float", "right");
 	$(".comment_reply").css("margin-top", "-21px");	
+
+	//Style the new picture area:
+	$(".picture img").css("max-height", "50px");
+	$(".picture img").css("position", "absolute");
+	$(".picture img").css("margin-top", "-8px");
 
 	//mGo Guilt / Header Area
 	$("#mainContent").prepend("<div class='new-hero'></div>");
@@ -84,6 +91,7 @@ $(document).ready(function(){
 		var postTitle = $(".forum-post-title", this);
 		var reply = $(".comment_reply", this);
 		var time = $(".forum-post-info", this);
+		var picture = $(".picture", this);
 
 		time = time.text();
 
@@ -96,5 +104,6 @@ $(document).ready(function(){
 		$(".new-title", this).append(postTitle);
 		$(".new-title", this).append(reply);
 		$(".new-time", this).append(time);
+		$(".new-title", this).prepend(picture);
 	});
 });
