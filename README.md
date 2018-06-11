@@ -1,6 +1,9 @@
 # MGo Comment Enhancer
 *Making MGoBoard a little more readable*
 
+### June 2018 Update
+**Consider this super-alpha**.
+
 ![Comparison](comparison.png)
 
 ## Background
@@ -37,8 +40,6 @@ Step 5) Make sure it's "enabled" via TamperMonkey (you might need to refresh)
 I put this together over a weekend or two using Javascript/JQuery.  I'm a complete novice, so it's probably not as efficient/clean as it could be.  Please contribute if you see missing features or have ideas to make it better.
 
 I'm including an Example.html and the corresponding files to make it easier to test in a local environment.
-
-I'm also curious to know how much "page weight" the extension adds.  My estimation is that it doesn't really impact loading time, but I'd love to eventually have some empirical data to back that up.
 
 Anyway, this project is open-source under the MIT License, and I welcome you to do whatever you want with it.
 
