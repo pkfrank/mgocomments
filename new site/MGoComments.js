@@ -77,16 +77,19 @@ $(document).ready(function(){
 		var picture = $(".image-style-thumbnail", this);
 		var reply = $(".comment-reply", this);
 		var vote = $(".mgo-vote-wrapper", this);
+		var joined = $(".joined", this);
+		console.log(joined);
 
 		time = time.text();
 		time = time.split('^').join('')
 
 		console.log(time);
 
-
 		points = points.text();
-		points = points.slice(12,99);
+		points = points.replace("MGoPoints:", "");
 		points = (" - " + points);
+		console.log(points);
+
 
 		$(".new-title", this).append(postTitle);
 		$(".new-time", this).append(reply);
