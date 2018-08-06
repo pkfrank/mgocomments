@@ -1,10 +1,10 @@
 # MGo Comment Enhancer
 *Making MGoBoard a little more readable*
 
-### June 2018 Update
-**Consider this super-alpha**.
+### August 2018 Update
+**Consider this pretty beta**.
 
-![Comparison](comparison.png)
+![Comparison](comparison2.png)
 
 ## Background
 I'm a fan and reader of [MGoBlog](http://MGoBlog.com), and the community at [MGoBoard](http://mgoblog.com/mgoboard).  I wanted to put together a little script to modify the CSS of the page to produce (what I think is) a cleaner and more compact overall look.
