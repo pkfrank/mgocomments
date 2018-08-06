@@ -43,7 +43,7 @@ I'm including some example files to make it easier to test in a local environmen
 
 Anyway, this project is open-source under the MIT License, and I welcome you to do whatever you want with it.
 
-##Contact
+## Contact
 Problems? Comments? MGoSnark?
 
 Ping me here, on Twitter [@PeterKimFrank](http://twitter.com/peterkimfrank), or via email at peter.kim.frank -at- gmail
