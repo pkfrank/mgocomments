@@ -7,7 +7,7 @@
 ![Comparison](comparison.png)
 
 ## Background
-I'm a huge fan and reader of [MGoBlog](http://MGoBlog.com), and the community at [MGoBoard](http://mgoblog.com/mgoboard).  I wanted to put together a little script to modify the CSS of the page to produce (what I think is) a cleaner and more compact overall look.
+I'm a fan and reader of [MGoBlog](http://MGoBlog.com), and the community at [MGoBoard](http://mgoblog.com/mgoboard).  I wanted to put together a little script to modify the CSS of the page to produce (what I think is) a cleaner and more compact overall look.
 
 **So, how does it work?** It's basically a little piece of code that activates only when you're at MGoBlog.com/MGoBoard.  It tells your web browser to change the styles of certain elements: for example-- remove the sidebar areas, make the posts wider, hide the author profile picture and signature, make the indents more prominent, etc.
 
@@ -37,9 +37,9 @@ Step 4) Navigate to MGoBoard
 Step 5) Make sure it's "enabled" via TamperMonkey (you might need to refresh)
 
 ## Technical Notes
-I put this together over a weekend or two using Javascript/JQuery.  I'm a complete novice, so it's probably not as efficient/clean as it could be.  Please contribute if you see missing features or have ideas to make it better.
+This is not "clean code."  It'snot as efficient/clean as it could be.  Please contribute if you see missing features or have ideas to make it better.  Submit an issue, PR, or email me.
 
-I'm including an Example.html and the corresponding files to make it easier to test in a local environment.
+I'm including some example files to make it easier to test in a local environment.
 
 Anyway, this project is open-source under the MIT License, and I welcome you to do whatever you want with it.
 
