@@ -37,7 +37,7 @@ Step 4) Navigate to MGoBoard
 Step 5) Make sure it's "enabled" via TamperMonkey (you might need to refresh)
 
 ## Technical Notes
-This is not "clean code."  It'snot as efficient/clean as it could be.  Please contribute if you see missing features or have ideas to make it better.  Submit an issue, PR, or email me.
+This is not "clean code."  It's not as efficient/clean as it could be.  Please contribute if you see missing features or have ideas to make it better.  Submit an issue, PR, or email me.
 
 I'm including some example files to make it easier to test in a local environment.
 
