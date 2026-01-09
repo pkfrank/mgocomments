@@ -1,8 +1,17 @@
 # MGoBlog Comment Enhancer 🏈
 
-> A Tampermonkey userscript that transforms MGoBlog's comment experience into a Reddit-like interface
+_A Tampermonkey userscript that transforms MGoBlog's comment experience into a Reddit-like interface_
 
-![Demo](assets/demo.gif)
+## 📸 Before & After
+
+| Before | After |
+|--------|-------|
+| <img width="1532" height="1594" alt="Screenshot 2026-01-09 at 11 24 13 AM" src="https://github.com/user-attachments/assets/c28115a4-6fa4-4478-88d2-98fc1f97aed6" /> | <img width="1580" height="1794" alt="Screenshot 2026-01-09 at 11 23 55 AM" src="https://github.com/user-attachments/assets/fdc2d39f-8366-4898-b5e7-2c46748390e4" />|
+
+**Before:** Paginated comments (50 per page), cluttered UI, basic sorting dropdown.
+
+**After:** All comments loaded, clean card-based layout, inline user stats, thread collapsing.
+
 
 ## ✨ Features
 
@@ -13,15 +22,6 @@
 - **👍 Quick Voting** — Optimistic UI updates for instant feedback.
 - **🎨 Clean Design** — Modern, compact layout with Michigan maize & blue theming.
 
-## 📸 Before & After
-
-| Before | After |
-|--------|-------|
-| ![Before](assets/before.png) | ![After](assets/after.png) |
-
-**Before:** Paginated comments (50 per page), cluttered UI, basic sorting dropdown.
-
-**After:** All comments loaded, clean card-based layout, inline user stats, thread collapsing.
 
 ## 🚀 Installation
 
